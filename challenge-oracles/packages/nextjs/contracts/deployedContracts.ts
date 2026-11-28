@@ -7,7 +7,7 @@ import { GenericContractsDeclaration } from "~~/utils/scaffold-eth/contract";
 const deployedContracts = {
   11155111: {
     Decider: {
-      address: "0x94377df25f280f6463299ed703f553bc860f6b07",
+      address: "0x102ae8686d9281ed5649735a48ae1e4dfd14d849",
       abi: [
         {
           inputs: [
@@ -102,10 +102,10 @@ const deployedContracts = {
         },
       ],
       inheritedFunctions: {},
-      deployedOnBlock: 12130924,
+      deployedOnBlock: 12228092,
     },
     ORA: {
-      address: "0xc5410590c8411229441a5ec67c79bbe4d94fc334",
+      address: "0xfafb4a561c7f0f9c7467cdd31585799cdbc6ec04",
       abi: [
         {
           inputs: [],
@@ -632,10 +632,10 @@ const deployedContracts = {
         renounceOwnership: "npm/@openzeppelin/contracts@5.7.0/access/Ownable.sol",
         transferOwnership: "npm/@openzeppelin/contracts@5.7.0/access/Ownable.sol",
       },
-      deployedOnBlock: 12130920,
+      deployedOnBlock: 12228088,
     },
     OptimisticOracle: {
-      address: "0x3e977341e4d178dcda79acb98659c56c45944ccc",
+      address: "0x139e785a0574de2cfb23eedbdbac65999f69b96c",
       abi: [
         {
           inputs: [
@@ -1272,10 +1272,10 @@ const deployedContracts = {
         },
       ],
       inheritedFunctions: {},
-      deployedOnBlock: 12130923,
+      deployedOnBlock: 12228091,
     },
     StakingOracle: {
-      address: "0xa2a14c65dd36a73366d403ad0f43902e47af607b",
+      address: "0x8bea8a3a46edcb73c339d236b311bd0f6334c739",
       abi: [
         {
           inputs: [
@@ -1933,10 +1933,10 @@ const deployedContracts = {
         },
       ],
       inheritedFunctions: {},
-      deployedOnBlock: 12130921,
+      deployedOnBlock: 12228089,
     },
     WhitelistOracle: {
-      address: "0xd6b4bc482b74160015e08090452ddbafbde361ef",
+      address: "0xc499f2f15fc00d9bcbba7b90bf103811781346e7",
       abi: [
         {
           inputs: [],
@@ -2094,7 +2094,7 @@ const deployedContracts = {
         },
       ],
       inheritedFunctions: {},
-      deployedOnBlock: 12130919,
+      deployedOnBlock: 12228087,
     },
   },
 } as const;
